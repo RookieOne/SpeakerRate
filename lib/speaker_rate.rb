@@ -15,10 +15,6 @@ class SpeakerRate
   def self.get_event(event_id)
     get("http://speakerrate.com/events/#{event_id}.json")
   end
-  
-  def self.get_series(series_id)
-    get("http://speakerrate.com/series/#{series_id}.json")
-  end
 
 end
 

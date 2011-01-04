@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    speaker_rate (0.0.1)
+    speaker_rate (0.0.2)
 
 GEM
   remote: http://rubygems.org/
